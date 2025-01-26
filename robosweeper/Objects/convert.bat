@@ -1,1 +1,0 @@
-"C:\Keil_v5\ARM\ARMCLANG\bin\fromelf.exe" --bin .\chapter3.axf --output .\test.srec
